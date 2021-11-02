@@ -1,1 +1,3 @@
-Hello there! I am Ankit Chowdhury, student at NSEC Garia
+Hello there! I am Ankit Chowdhury, student at NSEC Garia.
+I have undergone training in Web Development (HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, MySQL)
+and also in Cloud Computing (AWS-EC2, S3, DynamoDB, SNS, etc.)

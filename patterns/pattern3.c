@@ -12,7 +12,7 @@ int main() {
     int rows;
     printf("Enter number of rows: ");
     scanf("%d", &rows);
-    for (int row = 5; row >= 1; row--)
+    for (int row = rows; row >= 1; row--)
     {
         for (int col = row; col >= 1; col--)
             printf("* ");

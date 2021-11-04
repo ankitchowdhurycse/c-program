@@ -15,7 +15,7 @@ int main()
     scanf("%d", &rows);
     for (row = 1; row <= rows; row++)
     {
-        for (col = 1; col <= 2*rows-row; col++)
+        for (col = 1; col <= 2 * rows - row; col++)
         {
             if (col < row)
                 printf(" ");
